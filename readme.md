@@ -13,5 +13,5 @@
 20 cypress 我真的值得被这么多招新员看着吗 时间：2026年05月08日17时28分57秒574毫秒 上传人：terrainnull233
 <img width="1366" height="768" alt="屏幕捕获_2026_05_19_21_04_09_850" src="https://github.com/user-attachments/assets/077e8e26-7567-4ab8-b7c9-cd0cde42cc9d" />
 20 cypress 蟹状星云事件（月亮）和我的房子 时间：2026年05月19日21时04分09秒850毫秒 上传人：terrainnull233
-<img width="1366" height="768" alt="屏幕捕获_2026_05_19_22_10_57_566" src="https://github.com/user-attachments/assets/b75bbba0-847c-4231-b585-9d99935efb4a" />
-20 cypress 蟹状星云事件（太阳）和我的房子 时间：2026年05月19日22时10分57秒566毫秒 上传人：terrainnull233
+<img width="1366" height="768" alt="屏幕捕获_2026_05_19_21_10_57_566" src="https://github.com/user-attachments/assets/b75bbba0-847c-4231-b585-9d99935efb4a" />
+20 cypress 蟹状星云事件（太阳）和我的房子 时间：2026年05月19日21时10分57秒566毫秒 上传人：terrainnull233
